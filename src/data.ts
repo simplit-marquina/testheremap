@@ -1,6 +1,14 @@
 const VEHICLE_COLORS = [
-  '#2A16DA', '#E91E63', '#4CAF50', '#FF9800', '#00BCD4',
-  '#9C27B0', '#F44336', '#3F51B5', '#009688', '#FF5722',
+  '#2A16DA',
+  '#E91E63',
+  '#4CAF50',
+  '#FF9800',
+  '#00BCD4',
+  '#9C27B0',
+  '#F44336',
+  '#3F51B5',
+  '#009688',
+  '#FF5722',
 ]
 
 function darkenColor(hex: string, amount: number): string {
